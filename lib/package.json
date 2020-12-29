@@ -1,6 +1,6 @@
 {
-  "name": "micromodal",
-  "version": "0.4.6",
+  "name": "@gstvribs/micromodal",
+  "version": "0.4.7",
   "description": "Tiny javascript library for creating accessible modal dialogs",
   "main": "dist/micromodal.js",
   "cdn": "dist/micromodal.min.js",
@@ -11,9 +11,9 @@
   "jsdelivr": "dist/micromodal.min.js",
   "author": "Indrashish Ghosh",
   "license": "ISC",
-  "repository": "https://github.com/ghosh/micromodal",
+  "repository": "https://github.com/gstvribs/Micromodal",
   "bugs": {
-    "url": "https://github.com/ghosh/micromodal/issues"
+    "url": "https://github.com/gstvribs/Micromodal/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
